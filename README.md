@@ -1,3 +1,5 @@
+![alt tag](https://raw.githubusercontent.com/jsren/.paranoid/master/user_logged_in.png)
+
 ## What's in the box ##
 1x   Daemon sending gnome notications for other users logging (ssh-ing) in/out
 
